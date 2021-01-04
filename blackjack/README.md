@@ -1,4 +1,4 @@
-Blackjack 1.0 User Manual
+# Blackjack 1.0 User Manual
 by Thaddeus Osalvo
 
 How to setup:
